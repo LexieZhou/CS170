@@ -6,7 +6,7 @@
   - Matrix Multiplication
   - Find Medians
   - FFT & IFFT
-  - [x] FFT0
+    - [x] FFT0
 - Topic 2 - Graphs
   - DFS
   - Connected Compoments
@@ -15,10 +15,10 @@
 - Topic 3 - Paths in Graphs
   - Single-source Shortest Paths (SSSP)
   - BFS
-  - [x] binary search
+    - [x] binary search
   - Dijkstra's Algorithm
-  - [x] paths_on_graphs
-  - [x] greatest_roads
+    - [x] paths_on_graphs
+    - [x] greatest_roads
   - Bellman-Ford Algorithm
 - Topic 4 - Greedy Algorithm
   - Scheduling
@@ -26,6 +26,23 @@
   - Huffman Encoding
   - MST
     - Kruskal’s Algorithm
-    - [x] Kruskals
+      - [x] Kruskals
   - Prim’s Algorithm
 - Topic 5 - Dynamic Programming
+  - Longest Increasing Subsequences
+  - Edit Distance
+  - Knapsack
+  - Single Source Shortest Paths (SSSP) - Revisited
+  - All Pairs Shortest Paths (APSP)
+  - Traveling Salesperson Problem (TSP)
+  - Independent Sets
+- Topic 6 - Linear Programming
+  - Duality
+  - Max Flow
+  - Bipartite Matching
+  - Zero-Sum Games
+  - Multiplicative Weights
+- Topic 7 - Coping with NP-completeness
+  - Reductions
+    - [x] Reductions
+  
