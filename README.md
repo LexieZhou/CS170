@@ -44,5 +44,8 @@
   - Multiplicative Weights
 - Topic 7 - Coping with NP-completeness
   - Reductions
-    - [x] Reductions
+    - [x] Reductions (Vertex Cover -> LP)
+  - Approximation
+    - [x] Approximation (for Traveling Salesman Problem)
+- Topic 8 - Randomized Algorithms
   
